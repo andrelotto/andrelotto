@@ -1,6 +1,6 @@
 ## Hello guys, what's up? :)
 
-:octocat: Welcome to my Github profile. My name is André Otto and I'm 36 years old.
+:octocat: Welcome to my Github profile. My name is André Otto aka Otto and I'm 36 years old.
 
 <p> <samp> I love technology and how it can transform people's lives. <br>Because this, I'm computing, science, innovation and tech lover.  🐱‍💻❤ </p> 
 
